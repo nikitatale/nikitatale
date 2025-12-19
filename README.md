@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikita Tale
 - 🌐 I craft web experiences, one line of code at a time
 - 🌱 Always building, experimenting, and leveling up 
-- 📫 [LinkedIn](https://www.linkedin.com/in/nikita-tale)
+- 📫 LinkedIn: [Here](https://www.linkedin.com/in/nikita-tale)
 - ⚡ Every bug has a story - you just need to read it!
 
 <!---
