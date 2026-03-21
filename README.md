@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-- ⚡ From **undefined** to **deployed** — that's my journey
+- ⚡ From **undefined** to **deployed** - that's my journey
 - 🌱 Always **building**, **experimenting** and **leveling up**
 - 💡 I believe every bug has a story - you just need to read it!
 - 🐳 Dev life: *works on my machine* 😄
