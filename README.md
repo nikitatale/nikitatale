@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 💻 $ whoami
 
 - ⚡ From **undefined** to **deployed** - that's my journey
 - 🌱 Always **building**, **experimenting** and **leveling up**
