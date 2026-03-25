@@ -58,19 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikitatale&theme=tokyonight" />
-</p>
-
----
-
 <div align="center">
   <sub>✨ Crafting web experiences, one line of code at a time</sub>
 </div>
