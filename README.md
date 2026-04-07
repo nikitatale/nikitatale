@@ -55,7 +55,7 @@
 | 🎥 **[Meetra Web](https://github.com/nikitatale/Meetra-Web)** | Real-time video calling & chat app — Google Meet clone | WebRTC, Socket.io, MERN | [▶ Demo](https://meetra-web-frontend.onrender.com) |
 | 🏡 **[ApnaStay](https://github.com/nikitatale/ApnaStay)** | AI-powered travel platform with Groq LLaMA — Airbnb clone | MERN, Groq AI, Cloudinary | [▶ Demo](https://apna-stay-eosin.vercel.app/listings) |
 | 💬 **[PingPoint](https://github.com/nikitatale/pingpoint-chat-app)** | Next-gen real-time chat app with OAuth & media sharing | React, Node.js, Clerk, ImageKit | [▶ Demo](https://chat-app-nine-dusky-33.vercel.app) |
-| 💬 **[CareerPilot](https://github.com/nikitatale/CareerPilot)** | Modern professional networking platform where users can connect, share, and grow their careers. | Next.js, Node.js, Express, Redux Toolkit | [▶ Demo](http://career-pilot-omega.vercel.app) |
+| 💼 **[CareerPilot](https://github.com/nikitatale/CareerPilot)** | Modern professional networking platform where users can connect, share, and grow their careers. | Next.js, Node.js, Express, Redux Toolkit | [▶ Demo](http://career-pilot-omega.vercel.app) |
 
 ---
 
