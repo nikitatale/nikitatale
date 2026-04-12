@@ -53,7 +53,7 @@
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| **[Meetra Web](https://github.com/nikitatale/Meetra-Web)** | Real-time video calling & chat app — Google Meet clone | WebRTC, Socket.io, MERN | [▶ Demo](https://meetra-web-frontend.onrender.com) |
+| **[Meetra](https://github.com/nikitatale/Meetra-Web)** | Real-time video calling & chat app — Google Meet clone | WebRTC, Socket.io, MERN | [▶ Demo](https://meetra-web-frontend.onrender.com) |
 | **[ApnaStay](https://github.com/nikitatale/ApnaStay)** | AI-powered travel platform with Groq LLaMA — Airbnb clone | MERN, Groq AI, Cloudinary | [▶ Demo](https://apna-stay-eosin.vercel.app/listings) |
 | **[CareerPilot](https://github.com/nikitatale/CareerPilot)** | Modern professional networking platform where users can connect, share, and grow their careers. | Next.js, Node.js, Express, Redux Toolkit | [▶ Demo](http://career-pilot-omega.vercel.app) |
 
