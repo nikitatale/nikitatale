@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Nikita Tale 👋
-### Full-Stack MERN Developer · Problem Solver · Lifelong Learner
+### Frontend Developer (React.js) · MERN Stack · Lifelong Learner
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeCanvas-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
