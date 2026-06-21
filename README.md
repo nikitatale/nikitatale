@@ -53,9 +53,9 @@
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| **[Meetra](https://github.com/nikitatale/Meetra-Web)** | Real-time video calling & chat app — Google Meet clone | WebRTC, Socket.io, MERN | [ Demo](https://meetra-web-frontend.onrender.com) |
-| **[ApnaStay](https://github.com/nikitatale/ApnaStay)** | AI-powered travel platform with Groq LLaMA — Airbnb clone | MERN, Groq AI, Cloudinary | [ Demo](https://apna-stay-eosin.vercel.app/listings) |
 | **[SERP-IQ](https://github.com/nikitatale/SERP-IQ)** | AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini AI reports. | React.js, Node.js, Express, Playwright, Redux Toolkit, MongoDB | [ Demo](https://serp-iq-seo.vercel.app) |
+| **[Meetra](https://github.com/nikitatale/Meetra-Web)** | Real-time video calling & chat app — Google Meet clone | WebRTC, Socket.io, MERN | [ Demo](https://meetra-web-frontend.onrender.com) |
+| **[CareSync](https://github.com/nikitatale/CareSync-Hospital-Management)** | CareSync is a full-stack hospital staff management system, It streamlines HR operations with role-based dashboards for admins and staffs. | React, Node.js, Express, MongoDB. | [ Demo](https://care-sync-frontend-pi.vercel.app/login) |
 
 ---
 
