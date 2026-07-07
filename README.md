@@ -137,7 +137,6 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=nikitatale&theme=radical&hide_border=true&background=0d1117&ring=764ba2&fire=667eea" width="48%" />
 </div>
 
 <div align="center">
