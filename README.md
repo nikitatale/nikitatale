@@ -172,10 +172,10 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 ---
 
-### 🌍 Visitors Map
+### 🌍 Profile Visitors
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nikitatale/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=nikitatale&label=Visitor%20Count&color=764ba2&style=flat-square" />
 </div>
 
 ---
