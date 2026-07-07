@@ -154,22 +154,6 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikitatale&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-### 🌍 Profile Visitors
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitatale&label=Visitor%20Count&color=764ba2&style=flat-square" />
-</div>
-
----
-
 ### 💛 Connect With Me
 
 <div align="center">
@@ -189,7 +173,7 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 *"Seeking opportunities as a **MERN Stack Developer / Full Stack Developer**, where I can build scalable, real-world products and keep leveling up with every line of code."*
 
-⚡ *"From undefined to deployed — that's my journey."* ⚡
+⚡ *"From undefined to deployed - that's my journey."* ⚡
 
 </div>
 
