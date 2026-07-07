@@ -162,16 +162,6 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nikitatale/nikitatale/output/github-contribution-grid-snake.svg" width="90%" />
-</div>
-
-> ⚠️ Ye snake animation ek **GitHub Action** se generate hoti hai — setup steps niche diye hain.
-
----
-
 ### 🌍 Profile Visitors
 
 <div align="center">
