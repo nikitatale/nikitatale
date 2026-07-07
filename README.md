@@ -1,52 +1,86 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Nikita%20Tale&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Lifelong%20Learner&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Nikita%20Tale&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Building%20Real%20Products&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A020F0&center=true&vCenter=true&width=600&lines=From+undefined+to+deployed+%F0%9F%9A%80;Building+%2B+Experimenting+%2B+Leveling+Up;Every+bug+has+a+story+%F0%9F%90%9B;Works+on+my+machine+%F0%9F%98%84" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&width=650&lines=From+undefined+to+deployed+%F0%9F%9A%80;MERN+Stack+%2B+Real-Time+Systems;Every+bug+has+a+story+%F0%9F%90%9B;Consistency+%3E+Motivation+%F0%9F%94%A5" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-CodeCanvas-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-NikitaTale-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikitaTale)
+<img src="https://komarev.com/ghpvc/?username=nikitatale&label=Profile%20Views&color=764ba2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nikitatale?label=Followers&style=for-the-badge&color=667eea" />
+<img src="https://img.shields.io/badge/LeetCode-125%2B%20Solved-orange?style=for-the-badge&logo=leetcode" />
 
 </div>
 
 ---
 
-### 💻 `$ whoami`
+### 🧑‍💻 About Me
 
 ```javascript
 const nikita = {
-    role: "MERN Stack Developer",
-    location: "India 🇮🇳",
-    currentFocus: "Building real-world, deployable products",
-    philosophy: "Every bug has a story — you just need to read it",
-    funFact: "Dev life: works on my machine 😄",
+    name:      "Nikita Tale",
+    location:  "India 🇮🇳",
+    role:      "MERN Stack Developer",
+
+    stack: {
+        frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
+        backend:  ["Node.js", "Express", "Socket.io"],
+        database: ["MongoDB"],
+        tools:    ["Git", "GitHub", "Vercel", "Cloudinary", "Postman"],
+    },
+
+    currentlyBuilding: "AI-powered SEO tools & real-time apps",
+    lookingFor:        "MERN Stack Developer / Full Stack roles",
+    dailyGrind:        "DSA on LeetCode · #100DaysBadge2026",
+
+    funFact: "From undefined to deployed — that's my journey.",
 };
 ```
 
 ---
 
+### 🎯 Snapshot
+
+| 🎓 Focus | 💻 Primary Stack | 🧠 DSA Practice | 🚀 Target Role |
+|:---:|:---:|:---:|:---:|
+| Full Stack Development | MERN + Next.js | 125+ Problems · LeetCode | MERN Developer / Full Stack |
+
+<div align="center">
+
+![100 Days Badge](https://img.shields.io/badge/LeetCode-100%20Days%20Badge%202026-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Max Streak](https://img.shields.io/badge/Max%20Streak-133%20Days-brightgreen?style=for-the-badge&logo=fire&logoColor=white)
+![Active Days](https://img.shields.io/badge/Active%20Days-154-blue?style=for-the-badge)
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend**
+**Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Platforms**
 
@@ -58,45 +92,112 @@ const nikita = {
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Featured Projects
 
 <table>
-  <tr>
-    <td width="33%">
-      <h4>🔍 SERP-IQ</h4>
-      <p><i>AI-powered SEO analyzer</i></p>
-      <p>Real-time audits, keyword rank tracking & Gemini AI reports.</p>
-      <b>Stack:</b> React, Node.js, Express, Playwright, Redux Toolkit, MongoDB<br/>
-      <a href="https://github.com/nikitatale/SERP-IQ">GitHub</a> · <a href="https://serp-iq-seo.vercel.app">Live Demo</a>
-    </td>
-    <td width="33%">
-      <h4>🎥 Meetra</h4>
-      <p><i>Google Meet clone</i></p>
-      <p>Real-time video calling & chat app.</p>
-      <b>Stack:</b> WebRTC, Socket.io, MERN<br/>
-      <a href="https://github.com/nikitatale/Meetra-Web">GitHub</a> · <a href="https://meetra-web-frontend.onrender.com">Live Demo</a>
-    </td>
-    <td width="33%">
-      <h4>🏥 CareSync</h4>
-      <p><i>Hospital staff management</i></p>
-      <p>Role-based dashboards for admins & staff to streamline HR ops.</p>
-      <b>Stack:</b> React, Node.js, Express, MongoDB<br/>
-      <a href="https://github.com/nikitatale/CareSync-Hospital-Management">GitHub</a> · <a href="https://care-sync-frontend-pi.vercel.app/login">Live Demo</a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+**🔍 SERP-IQ**
+*AI-powered SEO analyzer*
+
+Real-time audits, keyword rank tracking, and Gemini AI-generated SEO reports.
+
+**Impact:**
+- ⚡ Automated SEO audits at scale
+- 🤖 AI-generated actionable reports
+- 🔎 Real-time keyword rank tracking
+
+`React` `Node.js` `Playwright` `Redux Toolkit` `MongoDB`
+
+[GitHub](https://github.com/nikitatale/SERP-IQ) · [Live Demo](https://serp-iq-seo.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+**🎥 Meetra**
+*Google Meet clone*
+
+Real-time video calling & chat app built for seamless remote communication.
+
+**Impact:**
+- 📹 Peer-to-peer video via WebRTC
+- 💬 Real-time chat with Socket.io
+- 🔐 Secure room-based sessions
+
+`WebRTC` `Socket.io` `MERN`
+
+[GitHub](https://github.com/nikitatale/Meetra-Web) · [Live Demo](https://meetra-web-frontend.onrender.com)
+
+</td>
+<td width="33%" valign="top">
+
+**🏥 CareSync**
+*Hospital staff management*
+
+Full-stack HMS with role-based dashboards for admins and staff.
+
+**Impact:**
+- 👥 Role-based access for admin/staff
+- 📋 Streamlined HR operations
+- 🖥️ Centralized dashboard system
+
+`React` `Node.js` `Express` `MongoDB`
+
+[GitHub](https://github.com/nikitatale/CareSync-Hospital-Management) · [Live Demo](https://care-sync-frontend-pi.vercel.app/login)
+
+</td>
+</tr>
 </table>
+
+---
+
+### 🏆 Achievements & Recognition
+
+🎯 **125+ DSA Problems** solved on LeetCode · 🔥 **133-day Max Streak**
+🏅 **100 Days Badge 2026** on LeetCode · 📅 **154 Active Days** in the past year
+🚀 3 full-stack products shipped end-to-end — designed, built, and deployed solo
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=nikitatale&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=nikitatale&theme=radical&hide_border=true&background=0d1117&ring=764ba2&fire=667eea" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2" width="48%" />
+</div>
+
+---
+
+### 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/NikitaTale?theme=dark&font=Baloo%202&ext=activity" width="60%" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikitatale&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 💛 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitatale)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikitaTale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
+
 </div>
 
 ---
@@ -104,11 +205,13 @@ const nikita = {
 ### 💬 Career Objective
 
 <div align="center">
-<i>"Seeking opportunities as a <b>MERN Stack Developer / Full Stack Developer</b>, where I can build scalable, real-world products and keep leveling up with every line of code."</i>
+
+*"Seeking opportunities as a **MERN Stack Developer / Full Stack Developer**, where I can build scalable, real-world products and keep leveling up with every line of code."*
 
 ⚡ *"From undefined to deployed — that's my journey."* ⚡
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 
 </div>
