@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&width=650&lines=From+undefined+to+deployed+%F0%9F%9A%80;MERN+Stack+%2B+Real-Time+Systems;Every+bug+has+a+story+%F0%9F%90%9B;Consistency+%3E+Motivation+%F0%9F%94%A5" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nikitatale&label=Profile%20Views&color=764ba2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/nikitatale?label=Followers&style=for-the-badge&color=667eea" />
-<img src="https://img.shields.io/badge/LeetCode-125%2B%20Solved-orange?style=for-the-badge&logo=leetcode" />
-
 </div>
 
 ---
