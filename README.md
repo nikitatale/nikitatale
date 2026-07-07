@@ -59,36 +59,9 @@ const nikita = {
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,socketio,mongodb,git,github,vercel,postman&theme=dark" />
+</div>
 
 ---
 
@@ -154,8 +127,8 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 ### 🏆 Achievements & Recognition
 
-🎯 **125+ DSA Problems** solved on LeetCode · 🔥 **133-day Max Streak**
-🏅 **100 Days Badge 2026** on LeetCode · 📅 **154 Active Days** in the past year
+🎯 **125+ DSA Problems** solved on LeetCode &nbsp;|&nbsp; 🔥 **133-day Max Streak**
+🏅 **100 Days Badge 2026** on LeetCode &nbsp;|&nbsp; 📅 **154 Active Days** in the past year
 🚀 3 full-stack products shipped end-to-end — designed, built, and deployed solo
 
 ---
@@ -185,6 +158,24 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikitatale&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nikitatale/nikitatale/output/github-contribution-grid-snake.svg" width="90%" />
+</div>
+
+> ⚠️ Ye snake animation ek **GitHub Action** se generate hoti hai — setup steps niche diye hain.
+
+---
+
+### 🌍 Visitors Map
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nikitatale/count.svg" />
 </div>
 
 ---
