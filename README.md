@@ -133,18 +133,6 @@ Full-stack HMS with role-based dashboards for admins and staff.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2" width="48%" />
-</div>
-
----
-
 ### 🧩 LeetCode Stats
 
 <div align="center">
