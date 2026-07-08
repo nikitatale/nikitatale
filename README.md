@@ -8,9 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
 [![LeetCode](https://img.shields.io/badge/LeetCode-NikitaTale-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikitaTale)
 
-<img src="https://komarev.com/ghpvc/?username=nikitatale&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/nikitatale?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-
 </div>
 
 ---
