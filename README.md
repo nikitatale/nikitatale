@@ -37,18 +37,6 @@ const nikita: Developer = {
 
 ---
 
-### 🎯 Snapshot
-
-<div align="center">
-
-| 🏆 LeetCode Rank | ✅ Problems Solved | 🔥 Max Streak | 📅 Active Days |
-|:---:|:---:|:---:|:---:|
-| 1,300,924 | 125 / 3985 | 133 Days | 154 Days |
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 **Frontend**
