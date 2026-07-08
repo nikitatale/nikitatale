@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nikita%20Tale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Grinder%20%7C%20Building%20Real%20Products&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nikita%20Tale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=51&descSize=0" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA+Grinder;Building+Real+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -104,7 +106,7 @@ AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini
 #### 🎥 Meetra
 *WebRTC + Real-Time Communication*
 
-Real-time video calling & chat app — a Google Meet clone built for seamless collaboration.
+Real-time video calling & chat app - a Google Meet clone built for seamless collaboration.
 
 **Impact**
 - 📹 Live video/audio calling via WebRTC
@@ -145,7 +147,7 @@ Currently building new projects in:
 - ☁️ Cloud-native architectures
 - 🔗 Open Source contributions
 
-Stay tuned — watch this space! 👀
+Stay tuned - watch this space! 👀
 
 </td>
 </tr>
@@ -169,10 +171,10 @@ Stay tuned — watch this space! 👀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=nikitatale&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
