@@ -23,7 +23,7 @@ const nikita: Developer = {
   stack: {
     frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
     backend:  ["Node.js", "Express", "Socket.io"],
-    database: ["MongoDB", MySQL, PostgreSQL],
+    database: ["MongoDB", "MySQL", "PostgreSQL"],
     tools:    ["Git", "GitHub", "Vercel", "Cloudinary", "Postman"],
     devops:   ["Docker", "AWS"],
   },
@@ -94,7 +94,7 @@ AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini
 - 📊 Real-time keyword rank tracking
 - ⚙️ Headless browser automation via Playwright
 
-`React.js` `Node.js` `Express` `Playwright` `Redux Toolkit` `MongoDB`
+`React.js` `Node.js` `Express` `Playwright` `Redux Toolkit`
 
 [🔗 GitHub](https://github.com/nikitatale/SERP-IQ) · [🚀 Demo](https://serp-iq-seo.vercel.app)
 
