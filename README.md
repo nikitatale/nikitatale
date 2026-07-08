@@ -1,27 +1,58 @@
 <div align="center">
 
-# Hi, I'm Nikita Tale 👋
-### MERN Stack Developer · Lifelong Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nikita%20Tale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Grinder%20%7C%20Building%20Real%20Products&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeCanvas-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
 [![LeetCode](https://img.shields.io/badge/LeetCode-NikitaTale-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikitaTale)
 
+<img src="https://komarev.com/ghpvc/?username=nikitatale&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/nikitatale?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
+
 </div>
 
 ---
 
-## 💻 $ whoami
+### 🧑‍💻 About Me
 
-- ⚡ From **undefined** to **deployed** - that's my journey
-- 🌱 Always **building**, **experimenting** and **leveling up**
-- 💡 I believe every bug has a story - you just need to read it!
-- 🐳 Dev life: *works on my machine* 😄
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/nikita-tale)**
+```typescript
+const nikita: Developer = {
+  name:       "Nikita Tale",
+  location:   "India 🇮🇳",
+  role:       "MERN Stack Developer",
+
+  stack: {
+    frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
+    backend:  ["Node.js", "Express", "Socket.io"],
+    database: ["MongoDB"],
+    tools:    ["Git", "GitHub", "Vercel", "Cloudinary", "Postman"],
+  },
+
+  currentlyBuilding: "AI-powered SEO tools & real-time apps",
+  lookingFor:         "SDE Internship / Full Stack roles",
+  openTo:             "Open Source Collaborations",
+
+  funFact: "From undefined to deployed — that's my journey.",
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+### 🎯 Snapshot
+
+<div align="center">
+
+| 🏆 LeetCode Rank | ✅ Problems Solved | 🔥 Max Streak | 📅 Active Days |
+|:---:|:---:|:---:|:---:|
+| 1,300,924 | 125 / 3985 | 133 Days | 154 Days |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
 
 **Frontend**
 
@@ -49,16 +80,151 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🔥 Featured Projects
 
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| **[SERP-IQ](https://github.com/nikitatale/SERP-IQ)** | AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini AI reports. | React.js, Node.js, Express, Playwright, Redux Toolkit, MongoDB | [ Demo](https://serp-iq-seo.vercel.app) |
-| **[Meetra](https://github.com/nikitatale/Meetra-Web)** | Real-time video calling & chat app — Google Meet clone | WebRTC, Socket.io, MERN | [ Demo](https://meetra-web-frontend.onrender.com) |
-| **[CareSync](https://github.com/nikitatale/CareSync-Hospital-Management)** | CareSync is a full-stack hospital staff management system, It streamlines HR operations with role-based dashboards for admins and staffs. | React, Node.js, Express, MongoDB. | [ Demo](https://care-sync-frontend-pi.vercel.app/login) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 SERP-IQ
+*AI + SEO + Automation*
+
+AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini AI-generated reports.
+
+**Impact**
+- 🤖 Automated SEO audits with AI-driven insights
+- 📊 Real-time keyword rank tracking
+- ⚙️ Headless browser automation via Playwright
+
+`React.js` `Node.js` `Express` `Playwright` `Redux Toolkit` `MongoDB`
+
+[🔗 GitHub](https://github.com/nikitatale/SERP-IQ)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎥 Meetra
+*WebRTC + Real-Time Communication*
+
+Real-time video calling & chat app — a Google Meet clone built for seamless collaboration.
+
+**Impact**
+- 📹 Live video/audio calling via WebRTC
+- 💬 Real-time chat powered by Socket.io
+- 🔐 Secure MERN-based architecture
+
+`WebRTC` `Socket.io` `MERN`
+
+[🔗 GitHub](https://github.com/nikitatale/Meetra-Web) · [🚀 Demo](https://meetra-web-frontend.onrender.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 CareSync
+*Hospital Staff Management*
+
+Full-stack hospital staff management system that streamlines HR operations with role-based dashboards for admins and staff.
+
+**Impact**
+- 🧑‍⚕️ Role-based dashboards for admins & staff
+- 📋 Streamlined HR workflows
+- 🔒 Secure authentication & access control
+
+`React` `Node.js` `Express` `MongoDB`
+
+[🔗 GitHub](https://github.com/nikitatale/CareSync-Hospital-Management) · [🚀 Demo](https://care-sync-frontend-pi.vercel.app/login)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌱 More Coming Soon...
+
+Currently building new projects in:
+
+- 🤖 AI / LLM integrations
+- ☁️ Cloud-native architectures
+- 🔗 Open Source contributions
+
+Stay tuned — watch this space! 👀
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements & Recognition
+
+<div align="center">
+
+🔥 **125+ DSA Problems** solved on LeetCode &nbsp;|&nbsp; 🏅 **2 Badges** including 100 Days Badge 2026
+
+🎯 **502 submissions** in the past year &nbsp;|&nbsp; ⚡ **133-day max streak**
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikitatale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=nikitatale&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitatale&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+### 🥇 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikitatale&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitatale&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitatale)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NikitaTale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>✨ Crafting web experiences, one line of code at a time</sub>
+
+### 💬 Career Objective
+
+*"Seeking opportunities as a **Software Development Intern / Full Stack Developer**, where I can contribute to scalable systems, real-time applications, and real-world product development."*
+
+⚡ *"From undefined to deployed — that's my journey."* ⚡
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+
+<sub>✨ Crafting web experiences, one line of code at a time</sub>
+
 </div>
