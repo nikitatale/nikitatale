@@ -12,7 +12,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 $ whoami
 
 ```typescript
 const nikita: Developer = {
@@ -23,15 +23,16 @@ const nikita: Developer = {
   stack: {
     frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
     backend:  ["Node.js", "Express", "Socket.io"],
-    database: ["MongoDB"],
+    database: ["MongoDB", MySQL, PostgreSQL],
     tools:    ["Git", "GitHub", "Vercel", "Cloudinary", "Postman"],
+    devops:   ["Docker", "AWS"],
   },
 
   currentlyBuilding: "AI-powered SEO tools & real-time apps",
   lookingFor:         "SDE Internship / Full Stack roles",
   openTo:             "Open Source Collaborations",
 
-  funFact: "From undefined to deployed — that's my journey.",
+  funFact: "From undefined to deployed - that's my journey.",
 };
 ```
 
@@ -95,7 +96,7 @@ AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini
 
 `React.js` `Node.js` `Express` `Playwright` `Redux Toolkit` `MongoDB`
 
-[🔗 GitHub](https://github.com/nikitatale/SERP-IQ)
+[🔗 GitHub](https://github.com/nikitatale/SERP-IQ) · [🚀 Demo](https://serp-iq-seo.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -177,16 +178,6 @@ Stay tuned — watch this space! 👀
 
 ---
 
-### 🥇 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikitatale&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -216,7 +207,7 @@ Stay tuned — watch this space! 👀
 
 *"Seeking opportunities as a **Software Development Intern / Full Stack Developer**, where I can contribute to scalable systems, real-time applications, and real-world product development."*
 
-⚡ *"From undefined to deployed — that's my journey."* ⚡
+⚡ *"From ideation to execution."* ⚡
 
 <br/>
 
