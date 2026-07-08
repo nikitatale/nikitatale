@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Nikita%20Tale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&color=A78BFA&center=true&vCenter=true&width=600&height=40&repeat=false&lines=MERN+Stack+Developer+%C2%B7+DSA+Grinder+%C2%B7+Building+Real+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&color=A78BFA&center=true&vCenter=true&width=600&height=40&repeat=false&lines=MERN+Stack+Developer+%C2%B7+DSA+Grinder+%C2%B7+Night+%F0%9F%A6%89+Coder" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeCanvas-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
