@@ -195,7 +195,7 @@ Stay tuned - watch this space! 👀
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&text=Crafting%20web%20experiences,%20one%20line%20of%20code%20at%20a%20time&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=10" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
 
 <sub>✨ Crafting web experiences, one line of code at a time</sub>
 
