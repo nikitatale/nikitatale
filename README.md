@@ -122,19 +122,26 @@ Full-stack hospital staff management system that streamlines HR operations with 
 [🔗 GitHub](https://github.com/nikitatale/CareSync-Hospital-Management) · [🚀 Demo](https://care-sync-frontend-pi.vercel.app/login)
 
 </td>
+
 <td width="50%" valign="top">
 
 #### 🌱 More Coming Soon...
 
-Currently building new projects in:
+Currently building:
 
-- 🤖 AI / LLM integrations
-- ☁️ Cloud-native architectures
-- 🔗 Open Source contributions
+- 💊 **Meditrack** - *OCR + AI + Automation* based medicine adherence platform that digitizes prescriptions via OCR and sends automated reminders, reducing manual tracking effort for users.
+- 📸 Prescription digitization using Tesseract.js OCR
+- ⏰ Automated reminder scheduling via cron jobs
+- 🤖 LLM API integration for medicine information
+
+`React.js` `Node.js` `Express` `MongoDB` `Tesseract.js` `Cron`
+
+[🔗 GitHub](https://github.com/nikitatale/MediTrack) | [🚀 Demo](#)
 
 Stay tuned - watch this space! 👀
 
 </td>
+
 </tr>
 </table>
 
