@@ -133,11 +133,7 @@ Currently building:
 - 📸 Prescription digitization using Tesseract.js OCR
 - ⏰ Automated reminder scheduling via cron jobs
 - 🤖 LLM API integration for medicine information
-
-`React.js` `Node.js` `Express` `MongoDB` `Tesseract.js` `Cron`
-
-[🔗 GitHub](https://github.com/nikitatale/MediTrack) | [🚀 Demo](#)
-
+  
 Stay tuned - watch this space! 👀
 
 </td>
