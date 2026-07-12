@@ -83,7 +83,9 @@ AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini
 
 `React.js` `Node.js` `Express` `Playwright` `Redux Toolkit`
 
-[🔗 GitHub](https://github.com/nikitatale/SERP-IQ) · [🚀 Demo](https://serp-iq-seo.vercel.app)
+[🔗 GitHub](https://github.com/nikitatale/SERP-IQ) | [🚀 Demo](https://serp-iq-seo.vercel.app)
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +102,9 @@ Real-time video calling & chat app - enabling seamless video communication.
 
 `WebRTC` `Socket.io` `MERN`
 
-[🔗 GitHub](https://github.com/nikitatale/Meetra-Web) · [🚀 Demo](https://meetra-web-frontend.onrender.com)
+[🔗 GitHub](https://github.com/nikitatale/Meetra-Web) | [🚀 Demo](https://meetra-web-frontend.onrender.com)
+
+<br/>
 
 </td>
 </tr>
@@ -119,7 +123,9 @@ Full-stack hospital staff management system that streamlines HR operations with 
 
 `React` `Node.js` `Express` `MongoDB`
 
-[🔗 GitHub](https://github.com/nikitatale/CareSync-Hospital-Management) · [🚀 Demo](https://care-sync-frontend-pi.vercel.app/login)
+[🔗 GitHub](https://github.com/nikitatale/CareSync-Hospital-Management) | [🚀 Demo](https://care-sync-frontend-pi.vercel.app/login)
+
+<br/>
 
 </td>
 
@@ -133,8 +139,10 @@ Currently building:
 - 📸 Prescription digitization using Tesseract.js OCR
 - ⏰ Automated reminder scheduling via cron jobs
 - 🤖 LLM API integration for medicine information
-  
+
 Stay tuned - watch this space! 👀
+
+<br/>
 
 </td>
 
