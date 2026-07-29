@@ -151,16 +151,6 @@ Stay tuned - watch this space! 👀
 
 ---
 
-### 🏆 Achievements & Recognition
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/NikitaTale?theme=dark&font=baloo2&ext=heatmap" width="500"/>
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
