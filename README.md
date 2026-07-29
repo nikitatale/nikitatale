@@ -155,9 +155,7 @@ Stay tuned - watch this space! 👀
 
 <div align="center">
 
-🔥 **125+ DSA Problems** solved on LeetCode &nbsp;|&nbsp; 🏅 **2 Badges** including 100 Days Badge 2026
-
-🎯 **502 submissions** in the past year &nbsp;|&nbsp; ⚡ **133-day max streak**
+<img src="https://leetcard.jacoblin.cool/NikitaTale?theme=dark&font=baloo2&ext=heatmap" width="500"/>
 
 </div>
 
