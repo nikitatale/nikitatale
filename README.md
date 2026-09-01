@@ -190,7 +190,7 @@ Stay tuned - watch this space! 👀
 
 *"Seeking opportunities as a **Software Development Intern / Full Stack Developer**, where I can contribute to scalable systems, real-time applications, and real-world product development."*
 
-⚡ *"From ideation to execution."* ⚡
+⚡ *"From ideation to execution."* ⚡ 
 
 <br/>
 
