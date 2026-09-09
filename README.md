@@ -161,16 +161,6 @@ Stay tuned - watch this space! 👀
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitatale&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
