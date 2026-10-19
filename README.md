@@ -5,7 +5,12 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeCanvas-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-NikitaTale-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikitaTale)
+[![GitHub](https://img.shields.io/badge/GitHub-nikitatale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitatale)
+[![LeetCode](https://img.shields.io/badge/LeetCode-NikitaTale-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NikitaTale)
+
+<br/>
+
+**🎯 Open to SDE Internship / Full Stack roles  •  🤝 Open Source Collaborations**
 
 </div>
 
@@ -18,19 +23,10 @@ const nikita: Developer = {
   name:       "Nikita Tale",
   location:   "India 🇮🇳",
   role:       "MERN Stack Developer",
-
-  stack: {
-    languages: ["JavaScript (ES6+)", "TypeScript", "Java"],
-    frontend:  ["React.js", "HTML", "CSS", "Tailwind CSS"],
-    backend & database: ["Node.js", "Express.js", "MongoDB", "MySQL", "REST APIs", "WebRTC", "Socket.io"],
-    tools:    ["Git", "GitHub", "Vercel", "Postman"],
-    devops:   ["Docker", "Kubernetes"],
-  },
-
-  lookingFor:         "SDE Internship / Full Stack roles",
-  openTo:             "Open Source Collaborations",
-
-  funFact: "From undefined to deployed - that's my journey.",
+  focus:      ["Scalable systems", "Real-time apps", "Real-world products"],
+  lookingFor: "SDE Internship / Full Stack roles",
+  openTo:     "Open Source Collaborations",
+  funFact:    "From undefined to deployed - that's my journey.",
 };
 ```
 
@@ -38,22 +34,33 @@ const nikita: Developer = {
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
-**Tools & Platforms**
+**DevOps & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -71,7 +78,7 @@ const nikita: Developer = {
 #### 🔍 SERP-IQ
 *AI + SEO + Automation*
 
-AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini AI-generated reports.
+AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini-generated reports.
 
 **Impact**
 - 🤖 Automated SEO audits with AI-driven insights
@@ -90,7 +97,7 @@ AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini
 #### 🎥 Meetra
 *WebRTC + Real-Time Communication*
 
-Real-time video calling & chat app - enabling seamless video communication.
+Real-time video calling & chat app for seamless communication.
 
 **Impact**
 - 📹 Live video/audio calling via WebRTC
@@ -112,14 +119,14 @@ Real-time video calling & chat app - enabling seamless video communication.
 #### 🌴 ApnaStay
 *AI-Powered Travel & Stay Platform*
 
-Discover unique stays, cozy homes, and premium accommodations with ApnaStay, your go-to platform for hassle-free vacation rentals. Browse listings, explore locations.
+A vacation-rental platform to browse unique stays, filter by category, and explore locations.
 
 **Impact**
-- 🔒 Secure authentication & access control
-- 🗂️ Category Filters
-- ⭐ Reviews & Ratings
+- 🤖 AI assistant powered by Groq (LLaMA 3.1)
+- 🗂️ Category filters for quick discovery
+- ⭐ Reviews, ratings & secure authentication
 
-`EJS` `Node.js` `Express` `MongoDB` `Multer + Cloudinary` `Groq API (LLaMA 3.1)`
+`EJS` `Node.js` `Express` `MongoDB` `Multer + Cloudinary` `Groq API`
 
 [GitHub](https://github.com/nikitatale/ApnaStay)  |  [Demo](https://apna-stay-eosin.vercel.app/listings)
 
@@ -131,7 +138,7 @@ Discover unique stays, cozy homes, and premium accommodations with ApnaStay, you
 #### 🏥 CareSync
 *Hospital Staff Management*
 
-Full-stack hospital staff management system that streamlines HR operations with role-based dashboards for admins and staff.
+Full-stack HR system for hospitals with role-based dashboards for admins and staff.
 
 **Impact**
 - 🧑‍⚕️ Role-based dashboards for admins & staff
@@ -160,28 +167,9 @@ Full-stack hospital staff management system that streamlines HR operations with 
 
 ---
 
-### 🤝 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tale)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitatale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NikitaTale)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://code-canvas-portfolio-website-w2s5.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Career Objective
-
-*"Seeking opportunities as a **Software Development Intern / Full Stack Developer**, where I can contribute to scalable systems, real-time applications, and real-world product development."*
-
-⚡ *"From ideation to execution."* ⚡ 
-
-<br/>
+⚡ *From ideation to execution.* ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
 
