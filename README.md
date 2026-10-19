@@ -85,7 +85,7 @@ AI-powered SEO analyzer with real-time audits, keyword rank tracking, and Gemini
 - 📊 Real-time keyword rank tracking
 - ⚙️ Headless browser automation via Playwright
 
-`React.js` `Node.js` `Express` `Playwright` `Redux Toolkit`
+`React.js` `Node.js` `Express.js` `Playwright` `Redux Toolkit`
 
 [GitHub](https://github.com/nikitatale/SERP-IQ)  |  [Demo](https://serp-iq-seo.vercel.app)
 
@@ -104,7 +104,7 @@ Real-time video calling & chat app for seamless communication.
 - 💬 Real-time chat powered by Socket.io
 - 🔐 Secure MERN-based architecture
 
-`WebRTC` `Socket.io` `MERN`
+`React.js` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.io`
 
 [GitHub](https://github.com/nikitatale/Meetra-Web)  |  [Demo](https://meetra-web-frontend.onrender.com)
 
@@ -126,7 +126,7 @@ A vacation-rental platform to browse unique stays, filter by category, and explo
 - 🗂️ Category filters for quick discovery
 - ⭐ Reviews, ratings & secure authentication
 
-`EJS` `Node.js` `Express` `MongoDB` `Multer + Cloudinary` `Groq API`
+`EJS` `Node.js` `Express.js` `MongoDB` `Cloudinary` `Groq API`
 
 [GitHub](https://github.com/nikitatale/ApnaStay)  |  [Demo](https://apna-stay-eosin.vercel.app/listings)
 
@@ -145,7 +145,7 @@ Full-stack HR system for hospitals with role-based dashboards for admins and sta
 - 📋 Streamlined HR workflows
 - 🔒 Secure authentication & access control
 
-`React` `Node.js` `Express` `MongoDB`
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 [GitHub](https://github.com/nikitatale/CareSync-Hospital-Management)  |  [Demo](https://care-sync-frontend-pi.vercel.app/login)
 
