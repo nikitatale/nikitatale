@@ -43,8 +43,6 @@ const nikita: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend**
@@ -107,6 +105,30 @@ Real-time video calling & chat app - enabling seamless video communication.
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🌴 ApnaStay 
+*AI-Powered Travel & Stay Platform*
+
+Discover unique stays, cozy homes, and premium accommodations with ApnaStay, your go-to platform for hassle-free vacation rentals. Browse listings, explore locations.
+
+**Impact**
+- 🔒 Secure authentication & access control
+- 🗂️ Category Filters
+- ⭐ Reviews & Ratings
+
+`EJS` `Node.js` `Express` `MongoDB` `Multer + Cloudinary` `Groq API (LLaMA 3.1)`
+
+[GitHub](https://github.com/nikitatale/ApnaStay)  |  [Demo](https://apna-stay-eosin.vercel.app/listings)
+
+<br/>
+
+</td>
+</tr>
+
+
 <tr>
 <td width="50%" valign="top">
 
