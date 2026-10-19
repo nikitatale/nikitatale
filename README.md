@@ -109,7 +109,7 @@ Real-time video calling & chat app - enabling seamless video communication.
 <tr>
 <td width="50%" valign="top">
 
-#### 🌴 ApnaStay 
+#### 🌴 ApnaStay
 *AI-Powered Travel & Stay Platform*
 
 Discover unique stays, cozy homes, and premium accommodations with ApnaStay, your go-to platform for hassle-free vacation rentals. Browse listings, explore locations.
@@ -126,10 +126,6 @@ Discover unique stays, cozy homes, and premium accommodations with ApnaStay, you
 <br/>
 
 </td>
-</tr>
-
-
-<tr>
 <td width="50%" valign="top">
 
 #### 🏥 CareSync
