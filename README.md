@@ -20,14 +20,13 @@ const nikita: Developer = {
   role:       "MERN Stack Developer",
 
   stack: {
-    frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
-    backend:  ["Node.js", "Express", "Socket.io"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools:    ["Git", "GitHub", "Vercel", "Cloudinary", "Postman"],
-    devops:   ["Docker", "AWS"],
+    languages: ["JavaScript (ES6+)", "TypeScript", "Java"],
+    frontend:  ["React.js", "HTML", "CSS", "Tailwind CSS"],
+    backend & database: ["Node.js", "Express.js", "MongoDB", "MySQL", "REST APIs", "WebRTC", "Socket.io"],
+    tools:    ["Git", "GitHub", "Vercel", "Postman"],
+    devops:   ["Docker", "Kubernetes"],
   },
 
-  currentlyBuilding: "AI-powered SEO tools & real-time apps",
   lookingFor:         "SDE Internship / Full Stack roles",
   openTo:             "Open Source Collaborations",
 
@@ -128,24 +127,6 @@ Full-stack hospital staff management system that streamlines HR operations with 
 <br/>
 
 </td>
-
-<td width="50%" valign="top">
-
-#### 🌱 More Coming Soon...
-
-Currently building:
-
-- 💊 **Meditrack** - *OCR + AI + Automation* based medicine adherence platform that digitizes prescriptions via OCR and sends automated reminders, reducing manual tracking effort for users.
-- 📸 Prescription digitization using Tesseract.js OCR
-- ⏰ Automated reminder scheduling via cron jobs
-- 🤖 LLM API integration for medicine information
-
-Stay tuned - watch this space! 👀
-
-<br/>
-
-</td>
-
 </tr>
 </table>
 
